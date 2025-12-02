@@ -1,0 +1,5 @@
+{
+  "name": "MediGen AI Video",
+  "description": "A professional AI video generation tool for hospital marketing, connecting to n8n workflows.",
+  "requestFramePermissions": []
+}
